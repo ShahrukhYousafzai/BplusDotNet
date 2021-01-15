@@ -1,0 +1,6 @@
+C:\Users\Shahrukh\Desktop\BplusDotNet-master\BplusDotNet\BplusDotNet\bin\Debug\BplusDotNet.dll
+C:\Users\Shahrukh\Desktop\BplusDotNet-master\BplusDotNet\BplusDotNet\bin\Debug\BplusDotNet.pdb
+C:\Users\Shahrukh\Desktop\BplusDotNet-master\BplusDotNet\BplusDotNet\obj\Debug\BplusDotNet.csprojAssemblyReference.cache
+C:\Users\Shahrukh\Desktop\BplusDotNet-master\BplusDotNet\BplusDotNet\obj\Debug\BplusDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Shahrukh\Desktop\BplusDotNet-master\BplusDotNet\BplusDotNet\obj\Debug\BplusDotNet.dll
+C:\Users\Shahrukh\Desktop\BplusDotNet-master\BplusDotNet\BplusDotNet\obj\Debug\BplusDotNet.pdb
